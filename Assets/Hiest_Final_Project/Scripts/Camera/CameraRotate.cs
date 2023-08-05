@@ -9,7 +9,7 @@ public class CameraRotate : MonoBehaviour
     public float angle2 = 210f; // The second target angle you pick
     public float pauseDuration = 3f; // The duration of the pause in seconds
     public string stopTag = "Slime";
-
+    public Light spotlight; // Reference to the spotlight attached to the camera
     private bool shouldRotate = true;
     private bool isRotating = false;
     private float targetRotationY;
@@ -54,6 +54,10 @@ public class CameraRotate : MonoBehaviour
         if (other.CompareTag(stopTag))
         {
             shouldRotate = false;
+            if (spotlight != null)
+            {
+                spotlight.enabled = false;
+            }
         }
     }
 }
