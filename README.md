@@ -5,7 +5,7 @@
 <p align="centre">
 
 ## Summary
-Immerse Yourself In A World Where Every Decision Or Step May Be Your Last! Welcome To Heist! A Virtual Reality Experience Where You Play As A Thief That Is Sneaking Through And Finding Your Way Inside A Complex To Steal Its Most Valuable Object; The Main Artifact.
+Immerse yourself in a world where every decision or step may be your last! Welcome to Heist! A virtual reality experience where you play as a thief that is sneaking through and finding your way inside a complex to steal its most valuable object; the main artifact.
 
 ## Features
 *Security Measures
@@ -24,7 +24,7 @@ Immerse Yourself In A World Where Every Decision Or Step May Be Your Last! Welco
 
 *Slow Down Time
 
-*entire Complex & City To View
+*Entire Complex & City To View
 
 *Voice Acting
 
